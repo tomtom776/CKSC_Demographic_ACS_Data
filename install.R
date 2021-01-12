@@ -1,5 +1,5 @@
-install.packages(c(tigris,
-                   acs,
-                   stringr,
-                   sf,
-                   dplyr))
+install.packages(c("tigris",
+                   "acs",
+                   "stringr",
+                   "sf",
+                   "dplyr"))
